@@ -1,1 +1,18 @@
+name: Snake Game
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@master
+        with:
+          github_user: 'yourusername' # Replace with your GitHub username
+          image: 'true' # Set to 'true' to generate an image
+          style: 'classic' # Style for the snake
 
