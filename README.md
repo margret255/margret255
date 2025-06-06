@@ -51,9 +51,6 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
-
-[![github contribution snake](https://github-contribution-snake.now.sh/?username=margret255)](https://github.com/margret255)
 
 ---
 
