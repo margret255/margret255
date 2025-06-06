@@ -36,4 +36,4 @@ Connect with me
 
 ### 💹 GitHub Activity Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=margret255](https://github.com/ashutosh00710/github-readme-activity-graph)
