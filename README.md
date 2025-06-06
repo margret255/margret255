@@ -3,18 +3,6 @@
 
 ---
 
-### Connect with me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/wangui-margaret-1857762a7" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
-  </a> 
-  <a href="mailto:your@email.com" target="_blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="30" width="30" />
-  </a> 
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" height="30" width="30" />
-  </a> 
-</p>
 
 ---
 
