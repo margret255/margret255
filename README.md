@@ -1,24 +1,46 @@
-
-
-
-
 <h1 align="center">Hey there, I'm Maggie 👋</h1>
-<h3 align="center">  Backend Developer | Data Enthusiast 🔐</h3>
+<h3 align="center">Backend Developer | Data Enthusiast 🔐</h3>
 
 ---
-Connect with me
-<p align="left"> <a href="https://www.linkedin.com/in/wangui-margaret-1857762a7" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a> <a href="mailto:your@email.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="30" width="30" /></a> <a href="https://your-portfolio-link.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" height="30" width="30" /></a> </p> 
+
+### Connect with me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/wangui-margaret-1857762a7" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
+  </a> 
+  <a href="mailto:your@email.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="30" width="30" />
+  </a> 
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" height="30" width="30" />
+  </a> 
+</p>
+
 ---
-🛠️ Languages and Tools
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> </p>
----
+
+### 🛠️ Languages and Tools  
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> 
+</p>
+
 ---
 
 ### 📊 GitHub Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=margret255&show_icons=true&theme=radical)
+![Maggie's GitHub stats](https://github-readme-stats.vercel.app/api?username=margret255&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=margret255&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=margret255&layout=compact&theme=radical)
 
 ---
 
@@ -28,19 +50,27 @@ Connect with me
 
 ---
 
-### 👀 Profile Views
+### 👀 Profile Views & Followers
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=margret255&label=PROFILE+VIEWS&style=flat-square)
+![Visitor Badge](https://komarev.com/ghpvc/?username=margret255&label=PROFILE+VIEWS&style=flat-square)  
+![Followers](https://img.shields.io/github/followers/margret255?label=Followers&style=social)
 
 ---
 
 ### 💹 GitHub Activity Graph
+
 [![Maggie's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=margret255&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 🐍 GitHub Contribution 
+### 🐍 GitHub Contribution Snake
 
 [![github contribution snake](https://github-contribution-snake.now.sh/?username=margret255)](https://github.com/margret255)
 
+---
 
+### 💡 Random Developer Quote
+
+[![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=dev)](https://github.com/piyush97/quotes-github-readme)
+
+---
