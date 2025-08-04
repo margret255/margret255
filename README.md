@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Maggie 👋</h1>
-<h3 align="center">Backend Developer | Data Enthusiast 🔐</h3>
+<h3 align="center">Backend Developer | Aspiring Machine Learning Engineer 🔐</h3>
 
 ---
 
