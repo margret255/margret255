@@ -7,7 +7,7 @@
 - 💻 Passionate about **backend development** with Python, Django, and FastAPI    
 - 🤖 Exploring **Machine Learning & AI** to turn data into actionable insights  
 - 🌱 Interested in building solutions at the intersection of **scalability, data, and sustainability**  
-- 🤝 Always open to collaboration, learning, and knowledge sharing within the tech community  
+- 🤝 Always open to collaboration, learning, and knowledge sharing within the tech community   
 
 ---
 
