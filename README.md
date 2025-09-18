@@ -9,7 +9,7 @@
 - 🌱 Interested in building solutions at the intersection of **scalability, data, and sustainability**   
 - 🤝 Always open to collaboration, learning, and knowledge sharing within the tech community    
 
----
+--- 
 
 ### 🛠️ Languages & Tools
 <p align="left">
