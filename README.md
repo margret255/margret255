@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Maggie 👋</h1>
 <h3 align="center">Machine Learning Engineer | Django Backend Developer | Bridging AI, Data & Scalable Systems</h3>
 
----
+--- 
 
 ### 🧑‍💻 About Me 
 - 💻 Passionate about **backend development** with Python, Django, and FastAPI    
